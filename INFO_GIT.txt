@@ -1,0 +1,85 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PS C:\Users\pc\Desktop\GIT HUB PROYECTO FINAL> git config --global user.gmail
+ninabeyma506@gmail.com
+PS C:\Users\pc\Desktop\GIT HUB PROYECTO FINAL> git init
+Initialized empty Git repository in C:/Users/pc/Desktop/GIT HUB PROYECTO FINAL/.git/
+PS C:\Users\pc\Desktop\GIT HUB PROYECTO FINAL> git add .
+warning: in the working copy of 'ARCHIVOS/CSS/mobile.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ARCHIVOS/CSS/style.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ARCHIVOS/Index.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ARCHIVOS/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ARCHIVOS/lab2.code-workspace', LF will be replaced by CRLF the next time Git touches it
+PS C:\Users\pc\Desktop\GIT HUB PROYECTO FINAL> git commit -m "hotel v 0.20.0"
+[master (root-commit) 77036c6] hotel v 0.20.0
+ 38 files changed, 2011 insertions(+)
+ create mode 100644 ARCHIVOS/CSS/mobile.css
+ create mode 100644 ARCHIVOS/CSS/style.css
+ create mode 100644 ARCHIVOS/Index.html
+ create mode 100644 ARCHIVOS/JS/script.js
+ create mode 100644 ARCHIVOS/PHP/process.php
+ create mode 100644 ARCHIVOS/README.md
+ create mode 100644 ARCHIVOS/blog.html
+ create mode 100644 ARCHIVOS/fonts/Loverine.otf
+ create mode 100644 ARCHIVOS/imagenes/0.jpg
+ create mode 100644 ARCHIVOS/imagenes/0204n1200093ys2u605DD.jpg
+ create mode 100644 ARCHIVOS/imagenes/The_View_Agadir-Agadir-Restaurant-30-787733.jpg
+ create mode 100644 ARCHIVOS/imagenes/beymar.jpg
+ create mode 100644 ARCHIVOS/imagenes/fondito.jpg
+ create mode 100644 ARCHIVOS/imagenes/fondito2.jpg
+ create mode 100644 ARCHIVOS/imagenes/fondo.jpg
+ create mode 100644 ARCHIVOS/imagenes/fondo1.jpg
+ create mode 100644 ARCHIVOS/imagenes/hotel-riu-tikida-beach-all-inclusive-adults-only-agadir-20240504094022898600.jpg
+ create mode 100644 ARCHIVOS/imagenes/hotel-tikida-golf-palace-relais-chateaux-agadir-20240326191602232700.jpg
+ create mode 100644 ARCHIVOS/imagenes/images-1.jpeg
+ create mode 100644 ARCHIVOS/imagenes/images-2.jpeg
+ create mode 100644 ARCHIVOS/imagenes/images-3.jpeg
+ create mode 100644 ARCHIVOS/imagenes/images-4.jpeg
+ create mode 100644 ARCHIVOS/imagenes/images-5.jpeg
+ create mode 100644 ARCHIVOS/imagenes/images-6.jpeg
+ create mode 100644 ARCHIVOS/imagenes/imagn-de-fondo.jpg
+ create mode 100644 ARCHIVOS/imagenes/img1.jpg
+ create mode 100644 ARCHIVOS/imagenes/img2.jpg
+ create mode 100644 ARCHIVOS/imagenes/img3.jpeg
+ create mode 100644 ARCHIVOS/imagenes/img4.jpg
+ create mode 100644 ARCHIVOS/imagenes/img6.jpg
+ create mode 100644 ARCHIVOS/imagenes/img7.jpg
+ create mode 100644 ARCHIVOS/imagenes/photo-1551882547-ff40c63fe5fa.jpeg
+ create mode 100644 ARCHIVOS/imagenes/roberto-nickson-MA82mPIZeGI-unsplash.jpg
+ create mode 100644 ARCHIVOS/imagenes/the-view-agadir-general-12512f2d.jpg
+ create mode 100644 ARCHIVOS/info.html
+ create mode 100644 ARCHIVOS/lab2.code-workspace
+ create mode 100644 ARCHIVOS/login.html
+ create mode 100644 ARCHIVOS/usuario.html
+PS C:\Users\pc\Desktop\GIT HUB PROYECTO FINAL> git log --online
+fatal: unrecognized argument: --online
+PS C:\Users\pc\Desktop\GIT HUB PROYECTO FINAL> git log --oneline
+77036c6 (HEAD -> master) hotel v 0.20.0
+PS C:\Users\pc\Desktop\GIT HUB PROYECTO FINAL> git remote add origin https://github.com/Beymar-Nina-Quispe-S-I/BEYMAR.N.Q__DE_I.T.B.F..git
+PS C:\Users\pc\Desktop\GIT HUB PROYECTO FINAL> git branch -M main
+>> git push -u origin main
+Enumerating objects: 46, done.
+Counting objects: 100% (46/46), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (42/42), done.
+Writing objects: 100% (46/46), 13.96 MiB | 1.31 MiB/s, done.
+Total 46 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), done.
+To https://github.com/Beymar-Nina-Quispe-S-I/BEYMAR.N.Q__DE_I.T.B.F..git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+PS C:\Users\pc\Desktop\GIT HUB PROYECTO FINAL>
