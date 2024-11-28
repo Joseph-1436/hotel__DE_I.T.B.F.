@@ -3,7 +3,6 @@ alert = addEventListener( 'click', function(){
  this.alert('reservando la habitacion');
 });
  */
-
 /* chat bot js  */
 // chatbot.js
 // script.js
@@ -14,6 +13,8 @@ alert = addEventListener( 'click', function(){
 // Función para agregar un mensaje al chat
 // Función para agregar un mensaje al chat
 // script.js
+
+
 
 // Función para agregar un mensaje al chat
 function addMessageToChat(message, sender) {
